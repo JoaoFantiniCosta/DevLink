@@ -163,10 +163,10 @@ footer {
 /* Media Queries */
 @media (min-width: 700px) {
   :root {
-    --bd-url: url(./bg-desktop.jpg);
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
 
   .light {
-    --bg-url: url(./bg-desktop-light.jpg);
+    --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
